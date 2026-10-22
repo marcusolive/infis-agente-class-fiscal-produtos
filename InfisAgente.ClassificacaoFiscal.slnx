@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/InfisAgente.ClassificacaoFiscal.Api/InfisAgente.ClassificacaoFiscal.Api.csproj" />
+    <Project Path="src/InfisAgente.ClassificacaoFiscal.Application/InfisAgente.ClassificacaoFiscal.Application.csproj" />
+    <Project Path="src/InfisAgente.ClassificacaoFiscal.Domain/InfisAgente.ClassificacaoFiscal.Domain.csproj" />
+    <Project Path="src/InfisAgente.ClassificacaoFiscal.Infrastructure/InfisAgente.ClassificacaoFiscal.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/InfisAgente.ClassificacaoFiscal.IntegrationTests/InfisAgente.ClassificacaoFiscal.IntegrationTests.csproj" />
+    <Project Path="tests/InfisAgente.ClassificacaoFiscal.UnitTests/InfisAgente.ClassificacaoFiscal.UnitTests.csproj" />
+  </Folder>
+</Solution>
